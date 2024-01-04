@@ -1,0 +1,11 @@
+Converting script [1 / 1]	[\Scripts\Controller\PlayerController.cs]
+	Fragments : 2
+		[ 0] : Line:   26	InputMethod   GetKeyDown          	(KeyCode.Space)
+		[ 1] : Line:   27	InputMethod   GetKeyDown          	(KeyCode.C)
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [C:/Users/maste/Desktop/WorkingProject/HideAndSeek/CF2-Data/Script-Backups/2021-11-04-21-48\Assets-After/\Scripts\Controller\PlayerController.cs] to [C:/Users/maste/Desktop/WorkingProject/HideAndSeek/Assets/\Scripts\Controller\PlayerController.cs]
+
+Overwriting COMPLETED!

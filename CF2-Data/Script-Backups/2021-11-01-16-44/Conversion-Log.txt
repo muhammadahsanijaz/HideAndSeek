@@ -1,0 +1,13 @@
+Converting script [1 / 1]	[\Scripts\PlayerController.cs]
+	Fragments : 4
+		[ 0] : Line:   17	InputMethod   GetKey              	(KeyCode.A)
+		[ 1] : Line:   21	InputMethod   GetKey              	(KeyCode.D)
+		[ 2] : Line:   26	InputMethod   GetKey              	(KeyCode.W)
+		[ 3] : Line:   30	InputMethod   GetKey              	(KeyCode.S)
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [C:/Users/maste/Desktop/WorkingProject/HideAndSeek/CF2-Data/Script-Backups/2021-11-01-16-44\Assets-After/\Scripts\PlayerController.cs] to [C:/Users/maste/Desktop/WorkingProject/HideAndSeek/Assets/\Scripts\PlayerController.cs]
+
+Overwriting COMPLETED!
